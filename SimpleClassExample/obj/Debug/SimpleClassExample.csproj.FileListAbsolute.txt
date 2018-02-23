@@ -1,0 +1,7 @@
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\repos\C#\csdemos\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
